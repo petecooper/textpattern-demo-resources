@@ -11,8 +11,11 @@ Downloaded originals are housed in [/source/images/](https://github.com/pragmati
 All images are derived from the highest resolution or original file. Processed image filenames have the following format/namespace:
 
 * Photographs: `scene_size_#widthx#height_#dpi_#qualitypc.[jpg|webp]`
+** e.g. `farm_base_2000x1500_300dpi_80pc.jpg`, `house_base_2000x1000_300dpi_80pc.webp`
 * Illustrations: `scene_size_#widthx#height_#dpi(_#qualitypc).[png|webp]`
+** e.g. `shop_base_2000x500_300dpi.png`, `car_base_2000x2000_300dpi_80pc.webp`
 * Vectors: `scene.svg`
+** e.g. `logo.svg`
 
 JPG and WebP file formats indicate export quality (typically 80%), PNG and SVG files formats are considered lossless and do not. PNG optimisation in [ImageOptim](https://imageoptim.com/) should only include lossless algorithms.
 
