@@ -12,6 +12,6 @@ All images are derived from the highest resolution or original file.
 
 | Size | Long edge | DPI | JPG quality | Optimisation |
 |---|---|---|---|---|
-| 1 | 2000px | 300 | 80% | [ImageOptim](https://imageoptim.com/) |
+| `base` | 2000px | 300 | 80% | [ImageOptim](https://imageoptim.com/) |
 |   |   |   |   |   |
 |   |   |   |   |   |
