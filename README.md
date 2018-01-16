@@ -8,8 +8,8 @@ Images are sourced from [Pixabay](https://pixabay.com) and are public domain, [C
 ### Image sizes
 All images are derived from the highest resolution or original file.
 
-| Size | Long edge (px) | DPI | JPG quality (%) | Optimisation |
+| Size | Long edge | DPI | JPG quality | Optimisation |
 |---|---|---|---|---|
-| 1 | 2000 | 300 | 80 | [ImageOptim](https://imageoptim.com/) |
+| 1 | 2000px | 300 | 80% | [ImageOptim](https://imageoptim.com/) |
 |   |   |   |   |   |
 |   |   |   |   |   |
