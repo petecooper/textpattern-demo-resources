@@ -3,7 +3,7 @@
 Work in progress.
 
 ## Images
-Images are sourced from (Pixabay)[https://pixabay.com] and are CC0 licenced.
+Images are sourced from [Pixabay](https://pixabay.com) and are CC0 licenced.
 
 ### Image sizes
 All images are derived from the highest resolution or original file.
