@@ -3,13 +3,13 @@
 Work in progress.
 
 ## Images
-Images are sourced from [Pixabay](https://pixabay.com) and are CC0 licenced.
+Images are sourced from [Pixabay](https://pixabay.com) and are public domain, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) licensed at the time of committing.
 
 ### Image sizes
 All images are derived from the highest resolution or original file.
 
 | Size | Long edge (px) | DPI | JPG quality (%) | Optimisation |
 |---|---|---|---|---|
-|   |   |   |   |   |
+| 1 | 2000 | 300 | 80 | [ImageOptim](https://imageoptim.com/) |
 |   |   |   |   |   |
 |   |   |   |   |   |
