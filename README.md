@@ -9,5 +9,5 @@ Images are sourced from Pixabay and are CC0 licenced.
 All images are derived from the highest resolution or original file.
 
 | Size | Long edge (px) | DPI | JPG quality (%) | Optimisation |
-|---|---|---|
-| | | |
+|-----|-----|-----|
+|   |   |   |
