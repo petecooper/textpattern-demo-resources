@@ -3,7 +3,10 @@
 Work in progress.
 
 ## Images
-Images are sourced from [Pixabay](https://pixabay.com) and are public domain, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) licensed at the time of committing.
+Images are public domain, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) licensed at the time of committing and sourced from:
+
+* [Pixabay](https://pixabay.com)
+* [Pexels](https://www.pexels.com).
 
 Downloaded originals are housed in [/source/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images). Processed images ready for use can be found in [/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images).
 
