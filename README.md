@@ -17,7 +17,7 @@ All images are derived from the highest resolution or original file. Processed i
 * Illustrations: `scene_size_#widthx#height_#dpi(_#qualitypc).[png|webp]` (e.g. `shop_base_2000x500_300dpi.png`, `car_base_2000x2000_300dpi_80pc.webp`)
 * Vectors: `scene.svg` (e.g. `logo.svg`)
 
-JPG and WebP file formats indicate export quality (typically 80%), PNG and SVG files formats are considered lossless and do not. PNG optimisation in [ImageOptim](https://imageoptim.com/) should only include lossless algorithms.
+JPG and WebP filenames indicate export quality (80%), PNG and SVG files are considered lossless and don't have an export quality. PNG optimisation in [ImageOptim](https://imageoptim.com/) should only include lossless algorithms.
 
 ### Raster image specifications
 
