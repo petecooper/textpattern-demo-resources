@@ -23,4 +23,5 @@ JPG and WebP filenames indicate export quality (80%), PNG and SVG files are cons
 
 | Size | Long edge | Quality | Optimisation |
 |---|---|---|---|
-| `base` | 2000px | 80% | [ImageOptim](https://imageoptim.com/) |
+| `base` | 2000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
+| `thumbnail` | 200px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
