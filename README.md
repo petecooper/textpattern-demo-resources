@@ -13,14 +13,14 @@ Downloaded originals are housed in [/source/images/](https://github.com/pragmati
 ### Image sizes
 All images are derived from the highest resolution or original file. Processed image filenames have the following format/namespace:
 
-* Photographs: `scene_size_#widthx#height_#dpi_#qualitypc.[jpg|webp]` (e.g. `farm_base_2000x1500_300dpi_80pc.jpg`, `house_base_2000x1000_300dpi_80pc.webp`)
-* Illustrations: `scene_size_#widthx#height_#dpi(_#qualitypc).[png|webp]` (e.g. `shop_base_2000x500_300dpi.png`, `car_base_2000x2000_300dpi_80pc.webp`)
+* Photographs: `scene_size_#widthx#height_#qualitypc.[jpg|webp]` (e.g. `farm_base_2000x1500_80pc.jpg`, `house_base_2000x1000_80pc.webp`)
+* Illustrations: `scene_size_#widthx#height_(_#qualitypc).[png|webp]` (e.g. `shop_base_2000x500.png`, `car_base_2000x2000_80pc.webp`)
 * Vectors: `scene.svg` (e.g. `logo.svg`)
 
 JPG and WebP filenames indicate export quality (80%), PNG and SVG files are considered lossless and don't have an export quality. PNG optimisation in [ImageOptim](https://imageoptim.com/) should only include lossless algorithms.
 
 ### Raster image specifications
 
-| Size | Long edge | DPI | Quality | Optimisation |
-|---|---|---|---|---|
-| `base` | 2000px | 300 | 80% | [ImageOptim](https://imageoptim.com/) |
+| Size | Long edge | Quality | Optimisation |
+|---|---|---|---|
+| `base` | 2000px | 80% | [ImageOptim](https://imageoptim.com/) |
