@@ -12,7 +12,7 @@ Downloaded originals: [/source/images/](https://github.com/pragmatika/textpatter
 
 Processed images (ready to use):[/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
 
-Thumbnails are in [/dist/images/_thumbnails](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
+Thumbnails (1% of original): [/dist/images/_thumbnails](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
 
 ### Image sizes
 All images are derived from the highest resolution or original file. Processed image filenames have the following format/namespace:
