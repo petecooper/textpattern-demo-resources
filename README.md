@@ -8,7 +8,11 @@ Images are public domain, [CC0](https://creativecommons.org/share-your-work/publ
 * [Pixabay](https://pixabay.com)
 * [Pexels](https://www.pexels.com)
 
-Downloaded originals are housed in [/source/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images). Processed images ready for use can be found in [/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
+Downloaded originals: [/source/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images).
+
+Processed images (ready to use):[/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
+
+Thumbnails are in [/dist/images/_thumbnails](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
 
 ### Image sizes
 All images are derived from the highest resolution or original file. Processed image filenames have the following format/namespace:
