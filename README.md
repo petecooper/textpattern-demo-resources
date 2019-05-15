@@ -10,22 +10,23 @@ Images are public domain, [CC0](https://creativecommons.org/share-your-work/publ
 
 Downloaded originals: [/source/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images).
 
-Processed images (ready to use):[/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
+Ready-to-use images: [/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
 
-Thumbnails (1% of original area): [/dist/images/_thumbnails](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
+Thumbnails: [/dist/images/_thumbnails](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
 
 ### Image sizes
-All images are derived from the highest resolution or original file. Processed image filenames have the following format/namespace:
+Ready-to use images are derived from the highest resolution or original source file. Processed image filenames have the following namespace:
 
-* Photographs: `scene_size_#widthx#height_#qualitypc.[jpg|webp]` (e.g. `farm_base_2000x1500_80pc.jpg`, `house_base_2000x1000_80pc.webp`)
-* Illustrations: `scene_size_#widthx#height_(_#qualitypc).[png|webp]` (e.g. `shop_base_2000x500.png`, `car_base_2000x2000_80pc.webp`)
+* Photographs & illustrations: `scene_derivative@density.[jpg|png|webp]` (e.g. `farm_base@1x.jpg`, `house_base@2x.webp`)
 * Vectors: `scene.svg` (e.g. `logo.svg`)
 
-JPG and WebP filenames indicate export quality (80%), PNG and SVG files are considered lossless and don't have an export quality. PNG optimisation in [ImageOptim](https://imageoptim.com/) should only include lossless algorithms.
+JPG and WebP files use lossy compression, PNG and SVG files are considered lossless. PNG optimisation in [ImageOptim](https://imageoptim.com/) should only include lossless algorithms.
 
 ### Raster image specifications
 
-| Size | Long edge | Quality | Optimisation |
-|---|---|---|---|
-| `base` | 2000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
-| `thumbnail` | 200px | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
+| Derivative | Density | Long edge | Quality (algorithm) | Optimisation |
+|---|---|---|---|---|
+| `base` | `@1x` | 1000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
+| `base` | `@2x` | 2000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
+| `thumbnail` | `@1x` | 100px | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
+| `thumbnail` | `@2x` | 200px | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
