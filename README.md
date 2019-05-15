@@ -24,9 +24,9 @@ JPG and WebP files use lossy compression, PNG and SVG files are considered lossl
 
 ### Raster image specifications
 
-| Derivative | Density | Long edge | Quality (algorithm) | Optimisation |
+| Derivative | Density | Long edge (algorithm) | Quality (algorithm) | Optimisation |
 |---|---|---|---|---|
-| `base` | `@1x` | 1000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
-| `base` | `@2x` | 2000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
-| `thumbnail` | `@1x` | 100px | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
-| `thumbnail` | `@2x` | 200px | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
+| `base` | `@1x` | 1000px (Lancsoz) | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
+| `base` | `@2x` | 2000px (Lancsoz) | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
+| `thumbnail` | `@1x` | 100px (Lancsoz) | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
+| `thumbnail` | `@2x` | 200px (Lancsoz) | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
