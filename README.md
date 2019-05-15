@@ -33,5 +33,5 @@ JPG and WebP files use lossy compression, PNG and SVG files are considered lossl
 |---|---|---|---|---|
 | base image | `@1x` | 1000px (Lancsoz) | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
 | base image | `@2x` | 2000px (Lancsoz) | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
-| `thumbnail` | `@1x` | 100px (Lancsoz) | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
-| `thumbnail` | `@2x` | 200px (Lancsoz) | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
+| `thumbnail` | `@1x` | 250px (Lancsoz) | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
+| `thumbnail` | `@2x` | 500px (Lancsoz) | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
