@@ -29,11 +29,11 @@ Ready-to use images are derived from the highest resolution or original source f
 * Vectors without transparency (SVG, lossless): `9###.svg` (e.g. `9012.svg`)
 
 | File type | Lossy | Lossless |
-|---|---|---|---|
-| JPG | [X] | [-] |
-| PNG | [–] | [X] |
-| SVG | [–] | [X] |
-| WebP | [X] | [X] |
+|---|---|---|
+| JPG | X | - |
+| PNG | - | X |
+| SVG | - | X |
+| WebP | - | X |
 
 ### Toolkit
 
