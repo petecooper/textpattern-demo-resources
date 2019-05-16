@@ -33,7 +33,7 @@ Ready-to use images are derived from the highest resolution or original source f
 | JPG | X | - |
 | PNG | - | X |
 | SVG | - | X |
-| WebP | - | X |
+| WebP | X | X |
 
 ### Toolkit
 
