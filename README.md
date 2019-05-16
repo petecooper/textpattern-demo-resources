@@ -19,9 +19,9 @@ Thumbnails: [/dist/images/_thumbnails/](https://github.com/pragmatika/textpatter
 
 ### Image types
 
-Ready-to use images are derived from the highest resolution or original source file provided by the creator via the website(s) listed. Image filenames have the following namespace:
+Ready-to use images are derived from the highest resolution or original source file.
 
-| File type | Category | Compression | Transparency | Number range |
+| File type | Category | Compression | Transparency | Namespace number range |
 |---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1999` |
 | WebP | Photos | Lossy | No | `2000` - `2999` |
@@ -30,15 +30,15 @@ Ready-to use images are derived from the highest resolution or original source f
 | SVG | Vectors | None | Yes | `8000` - `8999` |
 | SVG | Vectors | None | No | `9000` - `9999` |
 
-### Toolkit
-
-* [ImageOptim](https://imageoptim.com/)
-
 ### Raster image specifications
 
-| Derivative | Density | Long edge | Quality | Optimisation |
+| Derivative | Dimensions multiplier | Long edge | Quality | Optimisation |
 |---|---|---|---|---|
 | base image | `@1x` | 1000px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
 | base image | `@2x` | 2000px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
 | `thumbnail` | `@1x` | 250px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
 | `thumbnail` | `@2x` | 500px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
+
+### Toolkit
+
+* [ImageOptim](https://imageoptim.com/)
