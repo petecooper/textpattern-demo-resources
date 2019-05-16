@@ -22,7 +22,7 @@ Thumbnails: [/dist/images/_thumbnails/](https://github.com/pragmatika/textpatter
 Ready-to use images are derived from the highest resolution or original source file provided by the creator via the website(s) listed. Image filenames have the following namespace:
 
 * Photographs (JPG, lossy): `1###[-derivative]@dimensionMultiplier.jpg` (e.g. `1012@1x.jpg`)
-* Photographs (WebP, lossy): `2###[-derivative]@dimensionMultiplier.jpg` (e.g. `1012-thumbnail@1x.webp`)
+* Photographs (WebP, lossy): `2###[-derivative]@dimensionMultiplier.jpg` (e.g. `2012-thumbnail@1x.webp`)
 * Illustrations with transparency (PNG, lossless): `4###[-derivative]@dimensionMultiplier.png` (e.g. `4012-thumbnail@2x.png`)
 * Illustrations without transparency (WebP, lossless): `5###[-derivative]@dimensionMultiplier.webp` (e.g. `5012@2x.webp`)
 * Vectors with transparency (SVG, lossless): `8###.svg` (e.g. `8012.svg`)
