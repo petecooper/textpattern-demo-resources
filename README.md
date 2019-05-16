@@ -21,14 +21,14 @@ Thumbnails: [/dist/images/_thumbnails/](https://github.com/pragmatika/textpatter
 
 Ready-to use images are derived from the highest resolution or original source file provided by the creator via the website(s) listed. Image filenames have the following namespace:
 
-| Type | File type | Compression | Transparency | Number range |
+| File type | Category | Compression | Transparency | Number range |
 |---|---|---|---|---|
-| Photographs | JPG | Lossy | No | `1000` - `1999` |
-| Photographs | WebP | Lossy | No | `2000` - `2999` |
-| Illustrations | PNG | Lossless | Yes | `4000` - `4999` |
-| Illustrations | WebP | Lossless | No | `5000` - `5999` |
-| Vectors | SVG | None | Yes | `8000` - `8999` |
-| Vectors | SVG | None | No | `9000` - `9999` |
+| JPG | Photos | Lossy | No | `1000` - `1999` |
+| WebP | Photos | Lossy | No | `2000` - `2999` |
+| PNG | Illustrations | Lossless | Yes | `4000` - `4999` |
+| WebP | Illustrations | Lossless | No | `5000` - `5999` |
+| SVG | Vectors | None | Yes | `8000` - `8999` |
+| SVG | Vectors | None | No | `9000` - `9999` |
 
 ### Toolkit
 
