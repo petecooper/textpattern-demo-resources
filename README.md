@@ -29,7 +29,7 @@ Ready-to use images are derived from the highest resolution or original source f
 | PNG | Illustrations | Lossless | Yes | `4000` - `4999` |
 | WebP | Illustrations | Lossless | No | `5000` - `5999` |
 | APNG | Animation | - | - | `6000` - `6999` |
-| GIF | Animation | - | - | `7000 - `6999` |
+| GIF | Animation | - | - | `7000` - `6999` |
 | SVG | Vectors | None | Yes | `8000` - `8999` |
 | SVG | Vectors | None | No | `9000` - `9999` |
 
