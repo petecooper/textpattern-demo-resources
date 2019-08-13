@@ -25,10 +25,10 @@ Ready-to use images are derived from the highest resolution or original source f
 | File type | Category | Compression | Transparency | Prefix ID range | Count |
 |---|---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1999` | 50 |
-| WebP | Photos | Lossy | No | `2000` - `2999` | - |
+| WebP | Photos | Lossy | No | `2000` - `2999` | 50 |
 | GIF | Illustrations | - | - | `3000` - `3999` | - |
 | PNG | Illustrations | Lossless | Yes | `4000` - `4999` | 20 |
-| WebP | Illustrations | Lossless | No | `5000` - `5999` | - |
+| WebP | Illustrations | Lossless | No | `5000` - `5999` | 5 |
 | APNG | Animation | - | - | `6000` - `6999` | - |
 | GIF | Animation | - | - | `7000` - `6999` | - |
 | SVG | Vectors | None | Yes | `8000` - `8999` | - |
