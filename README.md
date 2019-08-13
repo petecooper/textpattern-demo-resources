@@ -22,7 +22,7 @@ Thumbnails: [/dist/images/_thumbnails/](https://github.com/pragmatika/textpatter
 Ready-to use images are derived from the highest resolution or original source file.
 
 | File type | Category | Compression | Transparency | Prefix ID range | Count |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1999` | 50 |
 | WebP | Photos | Lossy | No | `2000` - `2999` | - |
 | GIF | Illustrations | - | - | `3000` - `3999` | - |
