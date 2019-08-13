@@ -6,8 +6,9 @@ Work in progress.
 
 Source images are licensed for commercial and non-commercial use at the time of committing, and sourced from:
 
-* [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
+* [Burst](https://burst.shopify.com) ([licence](https://burst.shopify.com/legal/terms))
 * [Pexels](https://www.pexels.com) ([license](https://www.pexels.com/photo-license/))
+* [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
 
 Note: attribution will follow, see [issue 3](https://github.com/petecooper/textpattern-demo-resources/issues/3).
 
