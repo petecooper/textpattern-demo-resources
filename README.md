@@ -25,7 +25,7 @@ Ready-to use images are derived from the highest resolution or original source f
 | File type | Category | Compression | Transparency | Prefix ID range | Count |
 |---|---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1999` | 50 of 50 |
-| WebP | Photos | Lossy | No | `2000` - `2999` | 0 of 50 |
+| WebP | Photos | Lossy | No | `2000` - `2999` | 10 of 50 |
 | GIF | Illustrations | - | - | `3000` - `3999` | - |
 | PNG | Illustrations | Lossless | Yes | `4000` - `4999` | 20 of 20 |
 | WebP | Illustrations | Lossless | No | `5000` - `5999` | 5 of 5 |
@@ -47,3 +47,6 @@ Ready-to use images are derived from the highest resolution or original source f
 
 * [ImageOptim](https://imageoptim.com/)
 * [XnConvert](https://www.xnview.com/en/xnconvert/)
+
+
+### Settings
