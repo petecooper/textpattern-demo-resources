@@ -4,7 +4,7 @@ Work in progress.
 
 ## Images
 
-Source images are licensed for commercial and non-commercial use at the time of committing, and sourced from (alphebetical order):
+Source images are licensed for commercial and non-commercial use at the time of committing, and sourced from (alphabetical order):
 
 * [Burst](https://burst.shopify.com) ([licence](https://burst.shopify.com/legal/terms))
 * [Pexels](https://www.pexels.com) ([license](https://www.pexels.com/photo-license/))
