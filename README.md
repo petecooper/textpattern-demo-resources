@@ -28,7 +28,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 ### Raster image specifications
 
 | Derivative | Dimensions multiplier | Long edge | Quality |
-|---|---|---|---|---|
+|---|---|---|---|
 | base | `@1x` | 500px | 80% |
 | base | `@2x` | 1000px | 80% |
 | base | `@3x` | 1500px | 80% |
