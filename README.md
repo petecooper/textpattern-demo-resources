@@ -11,14 +11,6 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
-Note: attribution will follow, see [issue 3](https://github.com/petecooper/textpattern-demo-resources/issues/3).
-
-Original sources images, untouched: [/source/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images).
-
-Ready-to-use images: [/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
-
-Thumbnails: [/dist/images/_thumbnails/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
-
 ### Image types
 
 Ready-to use images are derived from the highest resolution or original source file.
