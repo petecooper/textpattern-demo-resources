@@ -1,6 +1,6 @@
 # Textpattern CMS demo site resources
 
-Work in progress.
+Work in progress. Weekend project.
 
 ## Images
 
@@ -12,8 +12,6 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
 ### Image types
-
-Ready-to use images are derived from the highest resolution or original source file.
 
 | File type | Category | Compression | Transparency | Prefix ID range | Count / (target) |
 |---|---|---|---|---|---|
@@ -29,17 +27,18 @@ Ready-to use images are derived from the highest resolution or original source f
 
 ### Raster image specifications
 
-| Derivative | Dimensions multiplier | Long edge | Quality | Optimisation |
+| Derivative | Dimensions multiplier | Long edge | Quality |
 |---|---|---|---|---|
-| base image | `@1x` | 1000px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
-| base image | `@2x` | 2000px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
-| `thumbnail` | `@1x` | 250px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
-| `thumbnail` | `@2x` | 500px | 80% | ImageOptim, best algorithm at `Extra` optimisation level |
+| base | `@1x` | 500px | 80% |
+| base | `@2x` | 1000px | 80% |
+| base | `@3x` | 1500px | 80% |
+| base | `@4x` | 2000px | 80% |
+| thumbnail | `@1x` | 100px | 80% |
+| thumbnail | `@2x` | 200px | 80% |
+| thumbnail | `@3x` | 300px | 80% |
+| thumbnail | `@4x` | 400px | 80% |
 
 ### Toolkit
 
 * [ImageOptim](https://imageoptim.com/)
 * [XnConvert](https://www.xnview.com/en/xnconvert/)
-
-
-### Settings
