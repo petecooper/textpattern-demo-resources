@@ -27,16 +27,20 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 ### Raster image specifications
 
-| Derivative | Dimensions multiplier | Long edge | Quality |
-|---|---|---|---|
-| base | `@1x` | 500px | 80% |
-| base | `@2x` | 1000px | 80% |
-| base | `@3x` | 1500px | 80% |
-| base | `@4x` | 2000px | 80% |
-| thumbnail | `@1x` | 100px | 80% |
-| thumbnail | `@2x` | 200px | 80% |
-| thumbnail | `@3x` | 300px | 80% |
-| thumbnail | `@4x` | 400px | 80% |
+| Size | Derivative | Dimensions multiplier | Long edge | Quality |
+|---|---|---|---|---|
+| M | base | `@1x` | 500px | 80% |
+| M | base | `@2x` | 1000px | 80% |
+| M | base | `@3x` | 1500px | 80% |
+| M | thumbnail | `@1x` | 100px | 80% |
+| M | thumbnail | `@2x` | 200px | 80% |
+| M | thumbnail | `@3x` | 300px | 80% |
+| L | base | `@1x` | 1000px | 80% |
+| L | base | `@2x` | 2000px | 80% |
+| L | base | `@3x` | 3000px | 80% |
+| L | thumbnail | `@1x` | 200px | 80% |
+| L | thumbnail | `@2x` | 400px | 80% |
+| L | thumbnail | `@3x` | 600px | 80% |
 
 ### Toolkit
 
