@@ -13,7 +13,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 ### Image types
 
-| File type | Category | Compression | Transparency | Prefix ID range | Count / (target) |
+| File type | Category | Compression | Transparency | ID range | Count / (target) |
 |---|---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1499` | - |
 | WebP | Photos | Lossy | No | `1500` - `1999` | - |
