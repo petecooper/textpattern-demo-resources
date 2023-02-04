@@ -18,7 +18,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | JPG | Photos | Lossy | No | `1000` - `1499` | - / (150) |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | - / (150) |
 | AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | - / (150) |
-| - | Photos | Lossy | No | `2500` - `2999` | - / (150) |
+| - | Photos | Lossy | No | `2500` - `2999` | - / (–) |
 | GIF | Illustrations | – | Yes | `3000` - `3499` | - / (150) |
 | PNG | Illustrations | Lossless | Yes | `3500` - `3999` | - / (150) |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | - / (150) |
@@ -33,6 +33,12 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 | Size | Derivative | Dimensions multiplier | Long edge | Quality |
 |---|---|---|---|---|
+| S | base | `@1x` | 250px | 80% |
+| S | base | `@2x` | 500px | 80% |
+| S | base | `@3x` | 750px | 80% |
+| S | thumbnail | `@1x` | 50px | 80% |
+| S | thumbnail | `@2x` | 100px | 80% |
+| S | thumbnail | `@3x` | 150px | 80% |
 | M | base | `@1x` | 500px | 80% |
 | M | base | `@2x` | 1000px | 80% |
 | M | base | `@3x` | 1500px | 80% |
@@ -45,6 +51,12 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | L | thumbnail | `@1x` | 200px | 80% |
 | L | thumbnail | `@2x` | 400px | 80% |
 | L | thumbnail | `@3x` | 600px | 80% |
+| X | base | `@1x` | 2000px | 80% |
+| X | base | `@2x` | 4000px | 80% |
+| X | base | `@3x` | 6000px | 80% |
+| X | thumbnail | `@1x` | 400px | 80% |
+| X | thumbnail | `@2x` | 800px | 80% |
+| X | thumbnail | `@3x` | 600px | 80% |
 
 ### Toolkit
 
