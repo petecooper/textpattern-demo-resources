@@ -22,8 +22,8 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | GIF | Illustrations | - | - | `3000` - `3499` | - |
 | PNG | Illustrations | Lossless | Yes | `3500` - `3999` | - |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | - |
-| – | – | – | – | `4500` - `4999` | - |
-| – | – | – | – | `5000` - `5499` | - |
+| PNG | Screenshots | – | – | `4500` - `4999` | - |
+| AVIF | Animation | – | – | `5000` - `5499` | - |
 | APNG <sup>([?](https://caniuse.com/apng))</sup> | Animation | - | - | `6000` - `6499` | - |
 | GIF | Animation | - | - | `7000` - `7499` | - |
 | SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | Yes | `9000` - `9499` | - |
