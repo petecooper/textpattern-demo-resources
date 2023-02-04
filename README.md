@@ -56,7 +56,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | X | base | `@3x` | 6000px | 80% |
 | X | thumbnail | `@1x` | 400px | 80% |
 | X | thumbnail | `@2x` | 800px | 80% |
-| X | thumbnail | `@3x` | 600px | 80% |
+| X | thumbnail | `@3x` | 1200px | 80% |
 
 ### Toolkit
 
