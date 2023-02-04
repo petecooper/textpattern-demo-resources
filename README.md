@@ -18,7 +18,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | JPG | Photos | Lossy | No | `1000` - `1499` | - |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | - |
 | AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | - |
-| JPEG XL | Photos | Lossy | No | `2500` - `2999` | - |
+| – | Photos | Lossy | No | `2500` - `2999` | - |
 | GIF | Illustrations | - | - | `3000` - `3499` | - |
 | PNG | Illustrations | Lossless | Yes | `3500` - `3999` | - |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | - |
