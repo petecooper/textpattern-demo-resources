@@ -16,12 +16,12 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | File type | Category | Compression | Transparency | ID range | Count / (target) |
 |---|---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1499` | - |
-| WebP <sup>[?](https://caniuse.com/webp)</sup> | Photos | Lossy | No | `1500` - `1999` | - |
+| WebP <sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | - |
 | AVIF | Photos | Lossy | No | `2000` - `2499` | - |
 | JPEG XL | Photos | Lossy | No | `2500` - `2999` | - |
 | GIF | Illustrations | - | - | `3000` - `3499` | - |
 | PNG | Illustrations | Lossless | Yes | `3500` - `3999` | - |
-| WebP | Illustrations | Lossless | No | `4000` - `4499` | - |
+| WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | - |
 | – | – | – | – | `4500` - `4999` | - |
 | – | – | – | – | `5000` - `5499` | - |
 | APNG | Animation | - | - | `6000` - `6499` | - |
