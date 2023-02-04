@@ -17,17 +17,17 @@ Source images are licensed for commercial and non-commercial use at the time of 
 |---|---|---|---|---|---|
 | JPG | Photos | Lossy | No | `1000` - `1499` | - |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | - |
-| AVIF | Photos | Lossy | No | `2000` - `2499` | - |
+| AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | - |
 | JPEG XL | Photos | Lossy | No | `2500` - `2999` | - |
-| GIF | Illustrations | - | - | `3000` - `3499` | - |
-| PNG | Illustrations | Lossless | Yes | `3500` - `3999` | - |
+| GIF <sup>([?](https://caniuse.com/gif))</sup> | Illustrations | - | - | `3000` - `3499` | - |
+| PNG <sup>([?](https://caniuse.com/png))</sup> | Illustrations | Lossless | Yes | `3500` - `3999` | - |
 | WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | - |
 | – | – | – | – | `4500` - `4999` | - |
 | – | – | – | – | `5000` - `5499` | - |
-| APNG | Animation | - | - | `6000` - `6499` | - |
-| GIF | Animation | - | - | `7000` - `7499` | - |
-| SVG | Vectors | None | Yes | `9000` - `9499` | - |
-| SVG | Vectors | None | No | `9500` - `9999` | - |
+| APNG <sup>([?](https://caniuse.com/apng))</sup> | Animation | - | - | `6000` - `6499` | - |
+| GIF <sup>([?](https://caniuse.com/gif))</sup> | Animation | - | - | `7000` - `7499` | - |
+| SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | Yes | `9000` - `9499` | - |
+| SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | No | `9500` - `9999` | - |
 
 ### Raster image specifications
 
