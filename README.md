@@ -25,7 +25,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | WebP | Photos | Lossy | No | 3 | `1700` - `1799` | – / 150 |
 | WebP | Photos | Lossy | No | 4 | `1800` - `1899` | – / 150 |
 | WebP | Photos | Lossy | No | 5 | `1900` - `1999` | – / 150 |
-| AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | – / 150 |
+| AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | – | `2000` - `2499` | – / 150 |
 | – | Photos | Lossy | No | – | `2500` - `2999` | – / – |
 | GIF | Illustrations | – | Yes | – | `3000` - `3499` | – / 150 |
 | PNG | Illustrations | Lossless | Yes | – | `3500` - `3999` | – / 150 |
