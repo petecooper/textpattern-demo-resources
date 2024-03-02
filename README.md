@@ -28,6 +28,8 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | AVIF | Animation | – | - | `7000` - `7499` | – / (100) |
 | SVG<sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | Yes | `9000` - `9499` | – / (100) |
 | SVG | Vectors | None | No | `9500` - `9999` | – / (100) |
+| | | | | *Total* | – / – (–%) |
+
 
 ### Raster image specifications
 
