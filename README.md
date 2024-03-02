@@ -13,9 +13,13 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 ### Image types
 
-| File type | Category | Compression | Transparency | ID range | Count / (target) |
-|---|---|---|---|---|---|
-| JPG | Photos | Lossy | No | `1000` - `1499` | – / 150 |
+| File type | Category | Compression | Transparency | Size | ID range | Count / (target) |
+|---|---|---|---|---|---|---|
+| JPG | Photos | Lossy | No | 1 | `1000` - `1099` | – / 25 |
+| JPG | Photos | Lossy | No | 2 | `1100` - `1199` | – / 50 |
+| JPG | Photos | Lossy | No | 3 | `1200` - `1299` | – / 50 |
+| JPG | Photos | Lossy | No | 4 | `1300` - `1399` | – / 25 |
+| JPG | Photos | Lossy | No | 5 | `1400` - `1499` | – / 25 |
 | WebP<sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | – / 150 |
 | AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | – / 150 |
 | – | Photos | Lossy | No | `2500` - `2999` | – / – |
@@ -35,30 +39,36 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 | Size | Derivative | Dimensions multiplier | Long edge | Quality |
 |---|---|---|---|---|
-| S | base | `@1x` | 250px | 80% |
-| S | base | `@2x` | 500px | 80% |
-| S | base | `@3x` | 750px | 80% |
-| S | thumbnail | `@1x` | 50px | 80% |
-| S | thumbnail | `@2x` | 100px | 80% |
-| S | thumbnail | `@3x` | 150px | 80% |
-| M | base | `@1x` | 500px | 80% |
-| M | base | `@2x` | 1000px | 80% |
-| M | base | `@3x` | 1500px | 80% |
-| M | thumbnail | `@1x` | 100px | 80% |
-| M | thumbnail | `@2x` | 200px | 80% |
-| M | thumbnail | `@3x` | 300px | 80% |
-| L | base | `@1x` | 1000px | 80% |
-| L | base | `@2x` | 2000px | 80% |
-| L | base | `@3x` | 3000px | 80% |
-| L | thumbnail | `@1x` | 200px | 80% |
-| L | thumbnail | `@2x` | 400px | 80% |
-| L | thumbnail | `@3x` | 600px | 80% |
-| X | base | `@1x` | 2000px | 80% |
-| X | base | `@2x` | 4000px | 80% |
-| X | base | `@3x` | 6000px | 80% |
-| X | thumbnail | `@1x` | 400px | 80% |
-| X | thumbnail | `@2x` | 800px | 80% |
-| X | thumbnail | `@3x` | 1200px | 80% |
+| 1 | base | `@1x` | 125px | 80% |
+| 1 | base | `@2x` | 250px | 80% |
+| 1 | base | `@3x` | 375px | 80% |
+| 1 | thumbnail | `@1x` | 50px | 80% |
+| 1 | thumbnail | `@2x` | 100px | 80% |
+| 1 | thumbnail | `@3x` | 150px | 80% |
+| 2 | base | `@1x` | 250px | 80% |
+| 2 | base | `@2x` | 500px | 80% |
+| 2 | base | `@3x` | 750px | 80% |
+| 2 | thumbnail | `@1x` | 50px | 80% |
+| 2 | thumbnail | `@2x` | 100px | 80% |
+| 2 | thumbnail | `@3x` | 150px | 80% |
+| 3 | base | `@1x` | 500px | 80% |
+| 3 | base | `@2x` | 1000px | 80% |
+| 3 | base | `@3x` | 1500px | 80% |
+| 3 | thumbnail | `@1x` | 100px | 80% |
+| 3 | thumbnail | `@2x` | 200px | 80% |
+| 3 | thumbnail | `@3x` | 300px | 80% |
+| 4 | base | `@1x` | 1000px | 80% |
+| 4 | base | `@2x` | 2000px | 80% |
+| 4 | base | `@3x` | 3000px | 80% |
+| 4 | thumbnail | `@1x` | 200px | 80% |
+| 4 | thumbnail | `@2x` | 400px | 80% |
+| 4 | thumbnail | `@3x` | 600px | 80% |
+| 5 | base | `@1x` | 2000px | 80% |
+| 5 | base | `@2x` | 4000px | 80% |
+| 5 | base | `@3x` | 6000px | 80% |
+| 5 | thumbnail | `@1x` | 400px | 80% |
+| 5 | thumbnail | `@2x` | 800px | 80% |
+| 5 | thumbnail | `@3x` | 1200px | 80% |
 
 ### Toolkit
 
