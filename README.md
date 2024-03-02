@@ -15,19 +15,19 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 | File type | Category | Compression | Transparency | ID range | Count / (target) |
 |---|---|---|---|---|---|
-| JPG | Photos | Lossy | No | `1000` - `1499` | - / (150) |
-| WebP <sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | - / (150) |
-| AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | - / (150) |
-| - | Photos | Lossy | No | `2500` - `2999` | - / (–) |
-| GIF | Illustrations | – | Yes | `3000` - `3499` | - / (150) |
-| PNG | Illustrations | Lossless | Yes | `3500` - `3999` | - / (150) |
-| WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | - / (150) |
-| PNG | Screenshots | - | No | `4500` - `4999` | - / (150) |
-| GIF | Animation | - | - | `5000` - `5499` | - / (150) |
-| APNG <sup>([?](https://caniuse.com/apng))</sup> | Animation | - | - | `6000` - `6499` | - / (100) |
-| AVIF | Animation | - | - | `7000` - `7499` | - / (100) |
-| SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | Yes | `9000` - `9499` | - / (100) |
-| SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | No | `9500` - `9999` | - / (100) |
+| JPG | Photos | Lossy | No | `1000` - `1499` | – / (150) |
+| WebP <sup>([?](https://caniuse.com/webp))</sup> | Photos | Lossy | No | `1500` - `1999` | – / (150) |
+| AVIF<sup>([?](https://caniuse.com/avif))</sup> | Photos | Lossy | No | `2000` - `2499` | – / (150) |
+| – | Photos | Lossy | No | `2500` - `2999` | – / (–) |
+| GIF | Illustrations | – | Yes | `3000` - `3499` | – / (150) |
+| PNG | Illustrations | Lossless | Yes | `3500` - `3999` | – / (150) |
+| WebP <sup>([?](https://caniuse.com/webp))</sup> | Illustrations | Lossless | No | `4000` - `4499` | – / (150) |
+| PNG | Screenshots | – | No | `4500` - `4999` | – / (150) |
+| GIF | Animation | – | - | `5000` - `5499` | – / (150) |
+| APNG <sup>([?](https://caniuse.com/apng))</sup> | Animation | – | - | `6000` - `6499` | – / (100) |
+| AVIF | Animation | – | - | `7000` - `7499` | – / (100) |
+| SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | Yes | `9000` - `9499` | – / (100) |
+| SVG <sup>([?](https://caniuse.com/svg))</sup> | Vectors | None | No | `9500` - `9999` | – / (100) |
 
 ### Raster image specifications
 
