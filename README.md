@@ -8,11 +8,11 @@ Images are public domain, [CC0](https://creativecommons.org/share-your-work/publ
 * [Pixabay](https://pixabay.com)
 * [Pexels](https://www.pexels.com)
 
-Downloaded originals: [/source/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/source/images).
+Downloaded originals: [/source/images/](https://github.com/petecooper/textpattern-demo-resources/tree/master/source/images).
 
-Processed images (ready to use):[/dist/images/](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images).
+Processed images (ready to use):[/dist/images/](https://github.com/petecooper/textpattern-demo-resources/tree/master/dist/images).
 
-Thumbnails (1% of original area): [/dist/images/_thumbnails](https://github.com/pragmatika/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
+Thumbnails (1% of original area): [/dist/images/_thumbnails](https://github.com/petecooper/textpattern-demo-resources/tree/master/dist/images/_thumbnails).
 
 ### Image sizes
 All images are derived from the highest resolution or original file. Processed image filenames have the following format/namespace:
@@ -28,4 +28,4 @@ JPG and WebP filenames indicate export quality (80%), PNG and SVG files are cons
 | Size | Long edge | Quality | Optimisation |
 |---|---|---|---|
 | `base` | 2000px | 80% | [ImageOptim](https://imageoptim.com/), best algorithm at `Extra` optimisation level |
-| `thumbnail` | 200px | 90% | ImageOptim, best algorithm at `Extra` optimisation level |
+| `thumbnail` | 200px | 90% | ImageOptim, best algorithm at `Insane` optimisation level |
