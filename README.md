@@ -1,6 +1,6 @@
 # Textpattern CMS demo site resources
 
-Work in progress. Weekend project.
+Weekend project. Back burner.
 
 ## Images
 
